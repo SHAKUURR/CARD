@@ -1,0 +1,6 @@
+/* 768 */
+@media only screen and (max-width:48em) {
+  .form {
+    width: 70%;
+  }
+}
